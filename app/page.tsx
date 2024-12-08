@@ -750,6 +750,7 @@ export default function Home () {
         </div>
       </section>
       {/* BLOG SECTION END */}
+      {/* Development By Rahim Ali*/}
     </main>
   )
 }
